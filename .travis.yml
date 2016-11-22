@@ -105,8 +105,7 @@ deploy:
 
   provider: releases
 
-  file: yourapp.apk
-
+  file: TravisExample.apk
   skip_cleanup: true
 
   on:
