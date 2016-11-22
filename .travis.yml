@@ -111,7 +111,7 @@ deploy:
 
   on:
 
-    repo: githubUsername/Repository
+    repo: harmittaa/travis-example-android
 
     tags: true
 
